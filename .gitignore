@@ -1,6 +1,0 @@
-.gitignore
-env_project/
-yellow_tlc/landing/*
-yellow_tlc/yellow_tlc/spiders/__pycache__
-yellow_tlc/yellow_tlc/__pycache__
-abstract.md
