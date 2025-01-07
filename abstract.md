@@ -1,0 +1,1 @@
+The 'NYC Yellow Data Scraper' project is a crawler designed to extract NYC Yellow Taxi data using Scrapy. It structures data for future analysis, including configurations, commands, and directory structure. The project allows for variable customization and can be orchestrated with Airflow, automating data collection and processing.
